@@ -1,0 +1,28 @@
+.alternateTable {
+	width: 100%;
+}
+
+.alternateTable th {
+	background: #eeeff3;
+}
+.alternateTable tr:nth-child(even) { background: #fff;}
+.alternateTable tr:nth-child(odd) { background: #ddd;}
+
+.hidden {
+	display: none;
+}
+
+.aui-paginator-container {
+	margin: 30px;
+}
+
+.paginator-content {
+	border: 2px solid #CCCCCC;
+	margin: -10px 40px;
+	padding: 10px;
+	width: 534px;
+}
+
+.paginator-content div {
+	display: none;
+}
